@@ -68,3 +68,6 @@ function loadGalleryItem(index) {
   });
   items[index].classList.toggle("item-hide");
 }
+
+/* sadas */
+//asdasdasd
